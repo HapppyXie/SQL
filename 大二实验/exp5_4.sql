@@ -1,0 +1,1 @@
+select sum(学分) as 学分总数 from 课程信息表 group by 课程类别;

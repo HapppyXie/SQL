@@ -1,0 +1,1 @@
+select * from 课程信息表

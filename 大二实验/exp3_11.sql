@@ -1,0 +1,1 @@
+create unique index 课程ID on 课程信息表(课程ID)

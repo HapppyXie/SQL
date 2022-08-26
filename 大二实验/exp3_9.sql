@@ -1,0 +1,1 @@
+create unique index 教师ID索引 on 教学任务表(教师ID)

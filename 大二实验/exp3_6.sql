@@ -1,0 +1,1 @@
+create unique index 学号索引 on 学生档案表(学号)

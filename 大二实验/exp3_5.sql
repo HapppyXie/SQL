@@ -1,0 +1,1 @@
+create index 姓名索引 on 学生档案表(姓名)

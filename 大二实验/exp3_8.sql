@@ -1,0 +1,1 @@
+create clustered index 学号索引 on 学生成绩表(学号)

@@ -1,0 +1,1 @@
+create index 多列索引 on 学生档案表(学号,姓名,籍贯 desc)

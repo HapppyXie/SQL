@@ -1,0 +1,1 @@
+create unique index 多列索引 on 教师档案表(教师ID desc,姓名 asc,职称 desc)
